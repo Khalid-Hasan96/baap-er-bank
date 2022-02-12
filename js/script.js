@@ -10,4 +10,5 @@ document.getElementById('login-submit').addEventListener('click', function () {
         window.location.href = 'banking.html';
         //jodi uporer shorto ta sothik hoy tahole banking.html page e jabe
     }
-}) 
+})
+
